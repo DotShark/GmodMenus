@@ -6,10 +6,10 @@ A collection of some menus I made for my Gmod servers. It contains:
 - A better menu to configure [this addon](https://github.com/unktower/show_hidden)
 
 ## Help menu demo
-`This will be replaced by a YouTube video`
+[![Help menu](https://pouf.dotshark.ovh/images/help_menu.jpg)](https://youtu.be/wjO7A1w_FNw)
 
 ## HUD settings menu demo
-`This will be replaced by a YouTube video`
+[![JHUD config menu](https://pouf.dotshark.ovh/images/jhud_menu.jpg)](https://youtu.be/H5VF6U1rkZc)
 
 ## ShowHidden menu demo
-`This will be replaced by a YouTube video`
+[![ShowHidden config menu](https://pouf.dotshark.ovh/images/showhidden_menu.jpg)](https://youtu.be/CYQFE1420iU)
